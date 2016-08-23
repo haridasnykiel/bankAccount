@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+
+  font-size: 16px;
+  font-style: normal;
+
+
+}
+
+body {
+  margin: 5em;
+}
+
+h1 {
+  font-size: 1.6em;
+}
+
+ul {
+
+  list-style: none;
+  display: inline-block;
+  float: left;
+  padding: 0.3em;
+}
+
+li {
+
+  padding: 0.2em;
+
+}
+
+#name, #balance{
+  border: 2px solid #5B4343;
+  width: 9em;
+  height: 2em;
+}
